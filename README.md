@@ -8,8 +8,11 @@ Since we don’t have individual flight details (like delay minutes per flight),
 
 📊 Primary KPIs (Most Important Metrics)
 1️. Total Departures per Airline → Which airline handles the most flights?
+
 2️. Total Delays per Airline → Which airline faces the most delays?
+
 3️. On-Time Performance (%) → Which airlines are the most punctual?
+
 4️. Delay Rate (%) → What % of flights are delayed per airline?
     Delay Rate=(Number of Departures/Number of Flight Delays)×100
 
